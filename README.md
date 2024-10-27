@@ -1,7 +1,3 @@
-Here is a suggested `README.md` file for your COVID-19 Trend Analysis project:
-
----
-
 # COVID-19 Trend Analysis
 
 ## Overview
