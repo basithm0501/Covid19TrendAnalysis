@@ -48,8 +48,8 @@ The analysis is divided into two parts:
 2. **Rates Analysis**: This includes the calculation and visualization of recovery and mortality rates over time for each country and globally.
 
 ### Key Calculations
-- **Recovery Rate**: \(\text{Recovered Cases} / \text{Confirmed Cases}\)
-- **Mortality Rate**: \(\text{Deaths} / \text{Confirmed Cases}\)
+- **Recovery Rate**: Recovered Cases / Confirmed Cases
+- **Mortality Rate**: Deaths / Confirmed Cases
 
 If there are no confirmed cases on a given day, the rates are recorded as 0%.
 
